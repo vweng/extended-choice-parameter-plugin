@@ -7885,7 +7885,7 @@ JSONEditor.defaults.templates.underscore = function() {
 JSONEditor.defaults.theme = 'html';
 
 // Set the default template engine
-JSONEditor.defaults.template = 'default';
+JSONEditor.defaults.template = 'ejs';
 
 // Default options when initializing JSON Editor
 JSONEditor.defaults.options = {};
